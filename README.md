@@ -47,17 +47,3 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YannisMuminov&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisMuminov&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-
-<img src="https://streak-stats.demolab.com?user=YannisMuminov&theme=radical&hide_border=true&cache_seconds=1800" />
-
-</div>
-
