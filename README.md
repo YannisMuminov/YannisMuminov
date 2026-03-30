@@ -61,21 +61,3 @@
 
 </div>
 
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=YannisMuminov&icon=0&color=6)
-
-</div>
-
----
-
-## ⚡ Дополнительно (по желанию)
-
-Если снова будут падать графики — можно временно оставить только это:
-
-```md
-<img src="https://github-readme-stats.vercel.app/api?username=YannisMuminov&show_icons=true" />
